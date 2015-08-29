@@ -1,4 +1,4 @@
-Contains code pulled from Udacity.com tutorial 'Full Stack Foundations'. 
+/vagrant contains some code pulled from Udacity.com tutorial 'Full Stack Foundations' and some created during the course. 
 
 project.py launches a Flask web app containing for creating, editing, deleting and displaying restaurant menus contained in a SQLite database via the web.
 
